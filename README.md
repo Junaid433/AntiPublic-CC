@@ -1,6 +1,8 @@
 # AntiPublic-CC
 A Telegram bot that verifies if your credit card is public via antipublic.cc api
+
 ![Screenshot](antipublic.jpg)
+
 SETUP : 
 ```
 Q : How to run ? 

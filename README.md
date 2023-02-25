@@ -6,6 +6,7 @@ A Telegram bot that verifies if your credit card is public via antipublic.cc api
 SETUP : 
 ```
 Q : How to run ? 
+A : pip install pytelegrambotapi
 A : change bot token on main.py , line 6 , in bot variable 
 ```
 LIMITATIONS : 
